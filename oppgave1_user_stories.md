@@ -1,4 +1,4 @@
-#User stories
+# User stories
 
 * As an administrator, I want to create an exam for a course, so that participants can take the exam.
 
