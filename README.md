@@ -19,4 +19,4 @@ Lagde [en tavle i Trello med tre boards, og la til tre user stories fra oppgave 
 Opprettet dette GitHub repositoriet, og lastet opp alle filene knyttet til denne oppgaven her.
 
 ## Oppgave 7: Installere programvare
-Lastet ned Visual Studio Code, Node.js og Git. [Noterte ned versjonsnumrene til programmene her](oppgave7_installere_programvare/versjonsnumre.md), og tok [et screenshot av versjonsnumrene her](oppgave7_installere_programvare/versions_screenshot.png).
+Lastet ned og installerte Visual Studio Code, Node.js og Git. [Noterte ned versjonsnumrene til programmene her](oppgave7_installere_programvare/versjonsnumre.md), og tok [et screenshot av versjonsnumrene her](oppgave7_installere_programvare/versions_screenshot.png).
