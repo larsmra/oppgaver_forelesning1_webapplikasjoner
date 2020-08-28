@@ -1,7 +1,7 @@
 # Oppgaver til forelesning 1 i ITF31619 webapplikasjoner
 
 ## Oppgave 1: User stories
-Lagde [5 user stories](oppgave1_user_stories.md) til en eksamensapplikasjon.
+Lagde [fem user stories](oppgave1_user_stories.md) til en eksamensapplikasjon.
 
 ## Oppgave 2: Flytdiagram
 Lagde et [flytdiagram](oppgave2_flowchart.png) for flyten til en deltaker i eksamensapplikasjonen.
