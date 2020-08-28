@@ -1,6 +1,6 @@
 # User stories
 
-* As an administrator, I want to create an exam for a course, so that participants can take the exam.
+* As an administrator, I want to create an exam, so that participants can take the exam.
 
 * As a participant, I want to see how many questions that are completed and how many that are left, so that I can keep track of my progress during the exam.
 
