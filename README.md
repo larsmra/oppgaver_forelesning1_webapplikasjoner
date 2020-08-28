@@ -16,7 +16,7 @@ Lagde [et DB-diagram for eksamensapplikasjonen](oppgave4_db-diagram.png).
 Lagde [en tavle i Trello med tre boards, og la til tre user stories fra oppgave 1](oppgave5_trello/trello_tavle.png). La til en sjekkliste med ett punkt, og en forfallsdato til hver user story ([user story 1](oppgave5_trello/trello_sjekkliste_og_forfallsdato_1.png), [user story 2](oppgave5_trello/trello_sjekkliste_og_forfallsdato_2.png), [user story 3](oppgave5_trello/trello_sjekkliste_og_forfallsdato_3.png)). La også US'ene til [en epic](oppgave5_trello/trello_epic.png).
 
 ## Oppgave 6: GitHub
-Opprettet dette GitHub repositoriet, og lastet opp alle filene knyttet til denne oppgaven her.
+Opprettet dette GitHub-prosjektet, og lastet opp alle filene knyttet til denne oppgaven her.
 
 ## Oppgave 7: Installere programvare
 Lastet ned og installerte Visual Studio Code, Node.js og Git. [Noterte ned versjonsnumrene til programmene her](oppgave7_installere_programvare/versjonsnumre.md), og tok [et screenshot av versjonsnumrene her](oppgave7_installere_programvare/versions_screenshot.png).
